@@ -9,5 +9,5 @@ const client = new Pool({
 });
 
 module.exports = {
-    client
+  client
 };
