@@ -1,4 +1,4 @@
-const { client } = require('./pg');
+const { client } = require('../services/pg');
 
 module.exports = function (app) {
 

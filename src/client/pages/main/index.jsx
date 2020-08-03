@@ -6,7 +6,7 @@ import getPosts from "../../services/getPosts";
 
 
 export default class Main extends React.Component {
-  return = () => (
+  render = () => (
     <div>
       <h1>Header</h1>
     </div>
